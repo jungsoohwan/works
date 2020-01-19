@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578794769312.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2361858124",
+    "id" : "6E6659B",
+    "lastKnownWriteTime" : 1578794790,
+    "last_content_update" : 1578794790006,
+    "path" : "C:/works/ch03/ss.R",
+    "project_path" : "ss.R",
+    "properties" : {
+        "cursorPosition" : "0,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
